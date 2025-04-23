@@ -40,13 +40,6 @@ The **Health Diseases Prediction System** is a machine learning-based web applic
 
 ### 🧪 How to Run Locally
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/health-prediction-app.git
-
-# Navigate into the project directory
-cd health-prediction-app
-
 # Install dependencies
 pip install -r requirements.txt
 
